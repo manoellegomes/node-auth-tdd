@@ -1,2 +1,2 @@
-# node-auth-tdd
-Desenvolvimento de uma API de autenticação NodeJS utilizando a técnica de TDD com as libs Jest, Factory Girl, Faker, Supertest, Sequelize, JWT e BCrypt 
+# Api de autenticação JWT em NodeJS (express) utilizando TDD
+TDD de testes unitários e de integração com as libs Jest, Factory Girl, Faker, Supertest, Sequelize, jsonwebtoken e BCrypt
