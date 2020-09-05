@@ -9,8 +9,8 @@ describe('User', () => {
 
   it('should encrypt user password', async () => {
     const user = await User.create({
-      name: 'Diego',
-      email: 'diego@rocketseat.com.br',
+      name: 'Elaine Manoelle',
+      email: 'elaine.manoelle@pmipe.org.br',
       password: '123456',
     });
 
